@@ -4,7 +4,7 @@ Sou formado em Engenharia de Sistemas e atualmente curso Ciência de Dados e An�
 
 🌱 **Atualmente estou aprendendo:** Engenharia de Dados, Python para Data Science, Machine Learning, SQL Avançado  
 
-👨‍💻 **Todos os meus projetos atuais e futuros estarão disponíveis em:** [Meu Notion](https://checkered-browser-064.notion.site/c4d719a25b56424b8e068f83a6bd7dfd)  
+👨‍💻 **Todos os meus projetos atuais e futuros estarão disponíveis em:** [Meu Notion](https://)  
 
 💬 **Me pergunte sobre:** SQL, Power BI, Excel Avançado, Tableau, Automação de Processos e Gestão de Projetos  
 
