@@ -4,7 +4,7 @@ Sou formado em Engenharia de Sistemas e atualmente curso Ciência de Dados e An�
 
 🌱 **Atualmente estou aprendendo:** Engenharia de Dados, Python para Data Science, Machine Learning, SQL Avançado  
 
-👨‍💻 **Todos os meus projetos atuais e futuros estarão disponíveis em:** [Meu Notion](https://tree-whale-a25.notion.site/Gabriel-Marcano-16dbf5073b6980e184b3c38716fbaa5e)  
+👨‍💻 **Todos os meus projetos atuais e futuros estarão disponíveis em:** (<a href="[https://tree-whale-a25.notion.site/Gabriel-Marcano-16dbf5073b6980e184b3c38716fbaa5e)">[Meu Notion]</a>)  
 
 💬 **Me pergunte sobre:** SQL, Power BI, Excel Avançado, Tableau, Automação de Processos e Gestão de Projetos  
 
