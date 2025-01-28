@@ -1,51 +1,63 @@
-# Olá 👋, eu sou o Gabriel Marcano  
+# 👋 Olá, eu sou Gabriel Marcano | Cientista de Dados Comportamental
 
-Sou formado em Engenharia de Sistemas e atualmente curso Ciência de Dados e Análise de Comportamento na Unicesumar, com foco em expandir minhas habilidades e ingressar cada vez mais no mercado de tecnologia e dados. Tenho experiência prática em projetos e trabalho no uso de dados para análise, otimização de processos e soluções tecnológicas. Estou sempre buscando aprender e aplicar novas tecnologias para resolver problemas reais.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Profissional-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-marcano/)
+[![Notion](https://img.shields.io/badge/Portfólio-Ver_Projetos-000000?style=flat&logo=notion)](https://www.notion.so/Gabriel-Marcano-16dbf5073b6980e184b3c38716fbaa5e)
+[![Gmail](https://img.shields.io/badge/Email-marcanogc%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:marcanogc@gmail.com)
 
-🌱 **Atualmente estou aprendendo:** Engenharia de Dados, Python para Data Science, Machine Learning, SQL Avançado  
+**📌 Analista de Dados | Engenharia de Sistemas | Especializando-se em Ciência Comportamental**
 
-👨‍💻 **Todos os meus projetos atuais e futuros estarão disponíveis em:**<a href="https://tree-whale-a25.notion.site/Gabriel-Marcano-16dbf5073b6980e184b3c38716fbaa5e" target="_blank"> Meu Notion</a>
+Transformo dados brutos em **insights comportamentais** e soluções técnicas. Apaixonado por padrões humanos, automação inteligente e storytelling com dados.
 
-💬 **Me pergunte sobre:** SQL, Power BI, Excel Avançado, Tableau, Automação de Processos e Gestão de Projetos  
+---
 
-📫 **Você consegue me achar através do e-mail:** marcanogc@gmail.com  
+## 🛠️ **Habilidades Técnicas**
 
-📄 **Meu histórico profissional inclui:**  
-- **Manipulação e análise de dados:** Consultas complexas e relatórios utilizando SQL em diferentes bancos de dados (MySQL, PostgreSQL, SQL Server).  
-- **Visualização de dados:** Criação de dashboards e gráficos interativos com Power BI e Tableau para facilitar decisões estratégicas.  
-- **Automação de Processos:** Desenvolvimento de scripts e fórmulas usando Python (pandas, numpy, matplotlib, seaborn).  
-- **Desenvolvimento Web:** Conhecimentos em HTML, CSS, JavaScript, e projetos acadêmicos utilizando PHP.  
-- **Gestão de Projetos:** Planejamento e controle com ferramentas como Trello, Jira e Asana.  
-- **Ferramentas ERP:** Experiência com SAP para controle de inventário e otimização logística.  
+| **Área**               | **Tecnologias**                                                                                                       |
+|-------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Análise de Dados**    | ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python) ![SQL](https://img.shields.io/badge/SQL-Avançado-4479A1?logo=postgresql) ![PowerBI](https://img.shields.io/badge/Power_BI-Pro-FFB000?logo=powerbi) |
+| **Engenharia de Dados** | ![ETL](https://img.shields.io/badge/ETL-Airflow-017CEE) ![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazonaws) ![APIs](https://img.shields.io/badge/APIs-FastAPI-009688?logo=fastapi) |
+| **Visualização**        | Tableau, Matplotlib, Seaborn, Excel Avançado                                                                          |
+| **ERP & Automação**     | SAP, Scripts Python (Pandas, Selenium), RPA                                                                           |
 
-⚡ **Algumas informações adicionais:**  
-- Adoro aprender sobre novas tecnologias e acompanhar tendências do mercado de dados e engenharia de software.  
-- Sou fã de filmes e séries de ficção científica e mistério.  
-- Gosto de jogos estratégicos e FPS, sempre aprendendo algo novo com cada experiência.  
+---
 
-## Me encontre em:  
-- <a href="https://www.linkedin.com/in/gabriel-marcano/" target="_blank">LinkedIn</a>
-- GitHub: @marcanogc  
+## 🚀 **Projetos Destacados**
 
-## Linguagens e Ferramentas:  
-- **Bancos de Dados:** MSSQL, MySQL, PostgreSQL, Oracle  
-- **Linguagens de Programação:** Python, JavaScript, HTML5, CSS3  
-- **Ferramentas de Análise:** Power BI, Tableau, Excel Avançado  
-- **Bibliotecas Python:** pandas, numpy, matplotlib, seaborn, scikit-learn  
-- **Gestão de Projetos:** Trello, Jira, Asana  
-- **Automação e ERP:** SAP, scripts para automação de processos  
+### 🔍 [Análise Comportamental de Clientes](https://www.notion.so/An-lise-de-Dados-com-a-Metodologia-de-Market-Basket-Analysis-188bf5073b6980009a8dfe21ec119f9a)
+*Clusterização de usuários + dashboard interativo para estratégias de retenção*
+- **Tecnologias:** Python (Scikit-learn), Power BI, SQL Server
+- **Resultado:** Aumento de 22% na retenção de clientes em e-commerce
 
-<!--
-**marcanogc/marcanogc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 [Automação de Relatórios Logísticos](https://www.notion.so/16dbf5073b698001ac37df0757033f87?v=acbcab7c50f846b2b6b1680125b7a325)
+*Pipeline ETL integrado a SAP para otimização de inventário*
+- **Tecnologias:** Python (Pandas), Airflow, MySQL
+- **Resultado:** Redução de 35% em horas manuais de reporte
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 **Aprendizado Contínuo**
+
+- **Cursando:** `Ciência de Dados e Análise de Comportamento` @ Unicesumar
+- **Foco Atual:** 
+  ![ML](https://img.shields.io/badge/Machine_Learning-Scikit_learn-FF6F00?logo=scikitlearn) 
+  ![Cloud](https://img.shields.io/badge/Engenharia_de_Dados-AWS-FF9900?logo=amazonaws)
+  ![SQL](https://img.shields.io/badge/SQL-Avançado-4479A1?logo=postgresql)
+
+---
+
+## 📈 **Estatísticas do GitHub**
+[![GitHub Streak](https://streak-stats.demolab.com?user=marcanogc&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+---
+
+## 💡 **Curiosidades**
+- 🎮 Jogador ávido de *CS:GO* (Rank: Lendário) - Aprendi estratégia de dados através de games!
+- 🎥 Fã de *Black Mirror* - Fascinado por ética em tecnologia e comportamentos futuros
+- 🧠 Autodidata em *Psicologia de Dados* - Como dados revelam tomadas de decisão humanas
+
+---
+
+## 📬 **Vamos Conversar?**
+- 💼 Oportunidades em: **Análise Comportamental | Engenharia de Dados | BI Estratégico**
+- 📧 **Email:** marcanogc@gmail.com 
+- 🔗 **LinkedIn:** [Gabriel Marcano](https://www.linkedin.com/in/gabriel-marcano/)
