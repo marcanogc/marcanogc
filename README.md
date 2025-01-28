@@ -4,7 +4,7 @@
 [![Notion](https://img.shields.io/badge/Portfólio-Ver_Projetos-000000?style=flat&logo=notion)](https://www.notion.so/Gabriel-Marcano-16dbf5073b6980e184b3c38716fbaa5e)
 [![Gmail](https://img.shields.io/badge/Email-marcanogc%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:marcanogc@gmail.com)
 
-**📌 Analista de Dados | Engenharia de Sistemas | Especializando-se em Ciência Comportamental**
+**📌 Analista de Dados | Especializando-se em Ciência de Dados Comportamental | Desenvolvedor Full-Stack**
 
 Transformo dados brutos em **insights comportamentais** e soluções técnicas. Apaixonado por padrões humanos, automação inteligente e storytelling com dados.
 
