@@ -46,7 +46,7 @@ Transformo dados brutos em **insights comportamentais** e soluções técnicas. 
 ---
 
 ## 📈 **Estatísticas do GitHub**
-[![GitHub Streak](https://streak-stats.demolab.com?user=marcanogc&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=marcanogc&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
