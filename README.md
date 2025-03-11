@@ -1,63 +1,68 @@
-# 👋 Olá, eu sou Gabriel Marcano | Cientista de Dados Comportamental
+# 👋 Olá, eu sou Gabriel Marcano | Data Analyst & BI Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Profissional-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-marcano/)
-[![Notion](https://img.shields.io/badge/Portfólio-Ver_Projetos-000000?style=flat&logo=notion)](https://www.notion.so/Gabriel-Marcano-16dbf5073b6980e184b3c38716fbaa5e)
+[![Notion](https://img.shields.io/badge/Portfólio_Data-Projetos_Relevantes-000000?style=flat&logo=notion)](https://www.notion.so/Gabriel-Marcano-16dbf5073b6980e184b3c38716fbaa5e)
 [![Gmail](https://img.shields.io/badge/Email-marcanogc%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:marcanogc@gmail.com)
 
-**📌 Analista de Dados | Especializando-se em Ciência de Dados Comportamental | Desenvolvedor Full-Stack**
+**📌 Especialista em Análise Comportamental | Python | SQL | Power BI | ETL**
 
-Transformo dados brutos em **insights comportamentais** e soluções técnicas. Apaixonado por padrões humanos, automação inteligente e storytelling com dados.
-
----
-
-## 🛠️ **Habilidades Técnicas**
-
-| **Área**               | **Tecnologias**                                                                                                       |
-|-------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| **Análise de Dados**    | ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python) ![SQL](https://img.shields.io/badge/SQL-Avançado-4479A1?logo=postgresql) ![PowerBI](https://img.shields.io/badge/Power_BI-Pro-FFB000?logo=powerbi) |
-| **Engenharia de Dados** | ![ETL](https://img.shields.io/badge/ETL-Airflow-017CEE) ![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazonaws) ![APIs](https://img.shields.io/badge/APIs-FastAPI-009688?logo=fastapi) |
-| **Visualização**        | Tableau, Matplotlib, Seaborn, Excel Avançado                                                                          |
-| **ERP & Automação**     | SAP, Scripts Python (Pandas, Selenium), RPA                                                                           |
+Arquiteto de soluções data-driven que transforma dados complexos em **estratégias mensuráveis**, combinando análise comportamental com engenharia de dados.
 
 ---
 
-## 🚀 **Projetos Destacados**
+## 🛠️ **Stack Técnico Principal**
 
-### 🔍 [Análise Comportamental de Clientes](https://www.notion.so/An-lise-de-Dados-com-a-Metodologia-de-Market-Basket-Analysis-188bf5073b6980009a8dfe21ec119f9a)
-*Clusterização de usuários + dashboard interativo para estratégias de retenção*
-- **Tecnologias:** Python (Scikit-learn), Power BI, SQL Server
-- **Resultado:** Aumento de 22% na retenção de clientes em e-commerce
-
-### 🤖 [Automação de Relatórios Logísticos](https://www.notion.so/16dbf5073b698001ac37df0757033f87?v=acbcab7c50f846b2b6b1680125b7a325)
-*Pipeline ETL integrado a SAP para otimização de inventário*
-- **Tecnologias:** Python (Pandas), Airflow, MySQL
-- **Resultado:** Redução de 35% em horas manuais de reporte
+| **Área**               | **Tecnologias**                                                                                     |
+|-------------------------|-----------------------------------------------------------------------------------------------------|
+| **Análise & BI**       | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql) ![PowerBI](https://img.shields.io/badge/Power_BI-FFB000?logo=powerbi) |
+| **Engenharia de Dados**| ![ETL](https://img.shields.io/badge/ETL-Airflow-017CEE) ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws) |
+| **Visualização**       | Tableau, Plotly, Power Query, DAX                                                                   |
+| **Automação**          | Pandas, Selenium, APIs REST                                                                         |
 
 ---
 
-## 📚 **Aprendizado Contínuo**
+## 🚀 **Projetos Relevantes**
 
-- **Cursando:** `Ciência de Dados e Análise de Comportamento` @ Unicesumar
+### 🔍 [Análise de Cesta de Mercado](https://www.notion.so/An-lise-de-Dados-com-a-Metodologia-de-Market-Basket-Analysis-188bf5073b6980009a8dfe21ec119f9a)
+*Segmentação comportamental para estratégias de upsell*
+- **Stack:** Python (ML), SQL, Power BI
+- **Impacto:** +22% retenção de clientes | +10% vendas recorrentes
+
+### 📊 [Otimização Logística Data-Driven](https://www.notion.so/16dbf5073b698001ac37df0757033f87)
+*Dashboard executivo com alertas em tempo real*
+- **Stack:** Airflow, MySQL, Python
+- **Impacto:** 40% redução custos operacionais | 92% entregas no prazo
+
+### 🤖 [Pipeline ETL para Gestão de Estoque](https://github.com/marcanogc/stock_optimization)
+*Integração SAP ↔ Power BI com atualizações diárias*
+- **Stack:** Python (Pandas), APIs REST, Power Automate
+- **Impacto:** 35% menos horas manuais de reporting
+
+---
+
+## 📚 **Capacitação Contínua**
+
+- **Especialização:** Ciência de Dados e Análise de Comportamento (UniCesumar)
 - **Foco Atual:** 
-  ![ML](https://img.shields.io/badge/Machine_Learning-Scikit_learn-FF6F00?logo=scikitlearn) 
-  ![Cloud](https://img.shields.io/badge/Engenharia_de_Dados-AWS-FF9900?logo=amazonaws)
-  ![SQL](https://img.shields.io/badge/SQL-Avançado-4479A1?logo=postgresql)
+  ![ML](https://img.shields.io/badge/ML_Avanzado-Scikit_learn-FF6F00) 
+  ![Cloud](https://img.shields.io/badge/AWS_Fundamentos-EC2_S3-FF9900)
+  ![BI](https://img.shields.io/badge/Power_BI_Expert-DAX-FFB000)
 
 ---
 
-## 📈 **Estatísticas do GitHub**
-[![GitHub Streak](https://streak-stats.demolab.com?user=marcanogc&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+## 📈 **Estatísticas Relevantes**
+[![GitHub Tech Focus](https://github-readme-tech-stack.vercel.app/api/cards?title=Foco%20Técnico&lineCount=1&line1=python,python,3776AB;sql,sql,4479A1;powerbi,powerbi,FFB000;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Foco%20Técnico&lineCount=1&line1=python,python,3776AB;sql,sql,4479A1;powerbi,powerbi,FFB000;)
 
 ---
 
-## 💡 **Curiosidades**
-- 🎮 Jogador ávido de *CS:GO* (Rank: Lendário) - Aprendi estratégia de dados através de games!
-- 🎥 Fã de *Black Mirror* - Fascinado por ética em tecnologia e comportamentos futuros
-- 🧠 Autodidata em *Psicologia de Dados* - Como dados revelam tomadas de decisão humanas
+## 💡 **Insights de Carreira**
+- 🎯 **Filosofia:** _"Dados são respostas, comportamento é o contexto"_
+- 🔄 **Workflow Preferido:** ETL → Análise Exploratória → Storytelling Visual
+- 🧠 **Curiosidade:** Ex-competidor de eSports (Top 5% CS:GO) aplicando análise de padrões a dados
 
 ---
 
-## 📬 **Vamos Conversar?**
-- 💼 Oportunidades em: **Análise Comportamental | Engenharia de Dados | BI Estratégico**
-- 📧 **Email:** marcanogc@gmail.com 
-- 🔗 **LinkedIn:** [Gabriel Marcano](https://www.linkedin.com/in/gabriel-marcano/)
+## 📬 **Oportunidades Estratégicas**
+- 💼 **Buscando:** Posições como Data Analyst | BI Developer | Analytics Engineer
+- 📧 **Contato Preferencial:** [LinkedIn](https://www.linkedin.com/in/gabriel-marcano/) ou marcanogc@gmail.com
+- 🔗 **Portfólio Completo:** [Notion](https://www.notion.so/Gabriel-Marcano-16dbf5073b6980e184b3c38716fbaa5e)
