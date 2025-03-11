@@ -23,7 +23,7 @@ Arquiteto de soluções data-driven que transforma dados complexos em **estraté
 
 ## 🚀 **Projetos Relevantes**
 
-### 🔍 [Análise de Cesta de Mercado](https://www.notion.so/An-lise-de-Dados-com-a-Metodologia-de-Market-Basket-Analysis-188bf5073b6980009a8dfe21ec119f9a)
+### 🔍 [Análise de Market Basket Analysis](https://www.notion.so/An-lise-de-Dados-com-a-Metodologia-de-Market-Basket-Analysis-188bf5073b6980009a8dfe21ec119f9a)
 *Segmentação comportamental para estratégias de upsell*
 - **Stack:** Python (ML), SQL, Power BI
 - **Impacto:** +22% retenção de clientes | +10% vendas recorrentes
