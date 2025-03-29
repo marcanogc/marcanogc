@@ -15,7 +15,7 @@ Arquiteto de soluções data-driven que transforma dados complexos em **estraté
 | **Área**               | **Tecnologias**                                                                                     |
 |-------------------------|-----------------------------------------------------------------------------------------------------|
 | **Análise & BI**       | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql) ![PowerBI](https://img.shields.io/badge/Power_BI-FFB000?logo=powerbi) |
-| **Engenharia de Dados**| ![ETL](https://img.shields.io/badge/ETL-Airflow-017CEE) ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws) |
+| **Engenharia de Dados**| ![ETL](https://img.shields.io/badge/ETL-Airflow-017CEE) ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws) ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure) ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud) |
 | **Visualização**       | Tableau, Plotly, Power Query, DAX                                                                   |
 | **Automação**          | Pandas, Selenium, APIs REST                                                                         |
 
@@ -33,10 +33,10 @@ Arquiteto de soluções data-driven que transforma dados complexos em **estraté
 - **Stack:** Airflow, MySQL, Python
 - **Impacto:** 40% redução custos operacionais | 92% entregas no prazo
 
-### 🤖 [Pipeline ETL para Gestão de Estoque](https://github.com/marcanogc/stock_optimization)
-*Integração SAP ↔ Power BI com atualizações diárias*
-- **Stack:** Python (Pandas), APIs REST, Power Automate
-- **Impacto:** 35% menos horas manuais de reporting
+### 🤖 [Pipeline ETL para Dados Bitcoin em Python](https://github.com/marcanogc/ETLProjectAPIExtract)
+*Automação da coleta e armazenamento de preços do Bitcoin em tempo real*
+- **Stack:** Python (Pandas, requests, SQLAlchemy), APIs REST (Coinbase), SQLite, Streamlit
+- **Impacto:** Redução de esforço manual na coleta de dados e maior confiabilidade na análise histórica de preços
 
 ---
 
@@ -45,7 +45,7 @@ Arquiteto de soluções data-driven que transforma dados complexos em **estraté
 - **Especialização:** Ciência de Dados e Análise de Comportamento (UniCesumar)
 - **Foco Atual:** 
   ![ML](https://img.shields.io/badge/ML_Avanzado-Scikit_learn-FF6F00) 
-  ![Cloud](https://img.shields.io/badge/AWS_Fundamentos-EC2_S3-FF9900)
+  ![Cloud](https://img.shields.io/badge/Multicloud_Fundamentos-AWS_Azure_GCP-FF9900)
   ![BI](https://img.shields.io/badge/Power_BI_Expert-DAX-FFB000)
 
 ---
