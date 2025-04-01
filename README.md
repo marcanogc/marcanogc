@@ -38,6 +38,12 @@ Arquiteto de soluções data-driven que transforma dados complexos em **estraté
 - **Stack:** Python (Pandas, requests, SQLAlchemy), APIs REST (Coinbase), SQLite, Streamlit
 - **Impacto:** Redução de esforço manual na coleta de dados e maior confiabilidade na análise histórica de preços
 
+### 💰 [Monitoramento de Custos no Azure Data Factory](https://github.com/marcanogc/monitoramento-adf)
+*Controle de gastos e otimização de pipelines de dados na nuvem*
+- **Stack:** Azure Data Factory, Azure Cost Management, PowerShell
+- **Impacto:** 30% redução de custos não previstos | Alertas proativos de orçamento
+- **Destaques:** Configuração de budgets automatizados | Análise granulada por atividade
+
 ---
 
 ## 📚 **Capacitação Contínua**
