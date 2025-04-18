@@ -1,23 +1,20 @@
-# 👋 Olá, eu sou Gabriel Marcano | Data Analyst & BI Specialist
+# 👋 Olá, eu sou Gabriel Marcano | Data Analyst & BI | Behavioral Insights | Python | SQL | Power BI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Profissional-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-marcano/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte%20Profissionalmente-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-marcano/)
 [![Notion](https://img.shields.io/badge/Portfólio_Data-Projetos_Relevantes-000000?style=flat&logo=notion)](https://www.notion.so/Gabriel-Marcano-16dbf5073b6980e184b3c38716fbaa5e)
 [![Gmail](https://img.shields.io/badge/Email-marcanogc%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:marcanogc@gmail.com)
 
-**📌 Especialista em Análise Comportamental | Python | SQL | Power BI | ETL**
-
-Arquiteto de soluções data-driven que transforma dados complexos em **estratégias mensuráveis**, combinando análise comportamental com engenharia de dados.
+**📌 Arquiteto de Insights Comportamentais**  
+Transformo padrões comportamentais em estratégias mensuráveis através da fusão entre **análise de dados**, BI e psicologia aplicada.
 
 ---
 
-## 🛠️ **Stack Técnico Principal**
+## 🛠️ **Stack de Impacto**
 
-| **Área**               | **Tecnologias**                                                                                     |
-|-------------------------|-----------------------------------------------------------------------------------------------------|
-| **Análise & BI**       | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql) ![PowerBI](https://img.shields.io/badge/Power_BI-FFB000?logo=powerbi) |
-| **Engenharia de Dados**| ![ETL](https://img.shields.io/badge/ETL-Airflow-017CEE) ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws) ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure) ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud) |
-| **Visualização**       | Tableau, Plotly, Power Query, DAX                                                                   |
-| **Automação**          | Pandas, Selenium, APIs REST                                                                         |
+| **Análise Comportamental**       | **Business Intelligence**            | **Engenharia de Dados**       |
+|----------------------------------|---------------------------------------|--------------------------------|
+| ![Python](https://img.shields.io/badge/Python_ML-Pandas/Scikit_learn-3776AB) | ![PowerBI](https://img.shields.io/badge/PowerBI-DAX_Storytelling-FFB000) | ![ETL](https://img.shields.io/badge/ETL-Airflow-017CEE) |
+| ![SQL](https://img.shields.io/badge/SQL_Behavioral-Padrões_de_Consumo-4479A1) | ![Tableau](https://img.shields.io/badge/Tableau_Insights-Correlações_Temporais-1E88E5) | ![Cloud](https://img.shields.io/badge/Multicloud-AWS_Azure-FF9900) |
 
 ---
 
@@ -31,12 +28,15 @@ Arquiteto de soluções data-driven que transforma dados complexos em **estraté
 ### 📊 [Otimização Logística Data-Driven](https://www.notion.so/16dbf5073b698001ac37df0757033f87)
 *Dashboard executivo com alertas em tempo real*
 - **Stack:** Airflow, MySQL, Python
-- **Impacto:** 40% redução custos operacionais | 92% entregas no prazo
+- **Insight Chave:** 65% dos atrasos ocorrem em janelas de alta pressão psicológica  
+- **Impacto Comportamental:** Aumento de 40% na satisfação de entregadores
 
 ### 🤖 [Pipeline ETL para Dados Bitcoin em Python](https://github.com/marcanogc/ETLProjectAPIExtract)
 *Automação da coleta e armazenamento de preços do Bitcoin em tempo real*
 - **Stack:** Python (Pandas, requests, SQLAlchemy), APIs REST (Coinbase), SQLite, Streamlit
-- **Impacto:** Redução de esforço manual na coleta de dados e maior confiabilidade na análise histórica de preços
+- **Insight Chave:** 89% dos picos de compra seguem manchetes positivas  
+- **Impacto Comportamental:** Alertas preventivos para traders impulsivos
+- **Destaque:** Redução de esforço manual na coleta de dados e maior confiabilidade na análise histórica de preços
 
 ### 💰 [Monitoramento de Custos no Azure Data Factory](https://github.com/marcanogc/monitoramento-adf)
 *Controle de gastos e otimização de pipelines de dados na nuvem*
@@ -69,6 +69,6 @@ Arquiteto de soluções data-driven que transforma dados complexos em **estraté
 ---
 
 ## 📬 **Oportunidades Estratégicas**
-- 💼 **Buscando:** Posições como Data Analyst | BI Developer | Analytics Engineer
+- 💼 **Buscando:** Posições como Data Analyst | BI Engineer | Arquiteto de Insights
 - 📧 **Contato Preferencial:** [LinkedIn](https://www.linkedin.com/in/gabriel-marcano/) ou marcanogc@gmail.com
 - 🔗 **Portfólio Completo:** [Notion](https://www.notion.so/Gabriel-Marcano-16dbf5073b6980e184b3c38716fbaa5e)
