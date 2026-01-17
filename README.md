@@ -93,4 +93,4 @@ Pipeline completo de previsão temporal: desde dados brutos até uma aplicação
 ## 📬 **Oportunidades Estratégicas** 
 - 📧 **Contato Preferencial:** [LinkedIn](https://www.linkedin.com/in/gabriel-marcano/) ou marcanogc@gmail.com  
 - 🔗 **Portfólio Completo:** [Ver Portfólio](https://gabriel-marcano-analytics.onrender.com/)
-- 🔗 **Notion:** [Notion](https://www.notion.so/Gabriel-Marcano-16dbf5073b6980e184b3c38716fbaa5e)
+- 🔗 **Notion:** [Ver Notion](https://www.notion.so/Gabriel-Marcano-16dbf5073b6980e184b3c38716fbaa5e)
