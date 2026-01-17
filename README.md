@@ -18,7 +18,7 @@ Tenho experiência em contextos **hospitalares, operacionais e de negócio**, ap
 |----------------------------------|-----------------------------------|----------------------------------|
 | ![Python](https://img.shields.io/badge/Python_Analytics-Pandas/Scikit_learn-3776AB) | ![ETL](https://img.shields.io/badge/ETL_Pipelines-Airflow_Orchestration-017CEE) | ![ML](https://img.shields.io/badge/Machine_Learning-Forecasting/TS-01D277) |
 | ![SQL](https://img.shields.io/badge/SQL_Modeling-KPIs_Analytics-4479A1) | ![API](https://img.shields.io/badge/REST_APIs-Data_Integration-FF6A00) | ![Viz](https://img.shields.io/badge/Data_Visualization-Storytelling-FF6384) |
-| ![PowerBI](https://img.shields.io/badge/PowerBI-DAX/Modeling-F2C811) | ![SQLite](https://img.shields.io/badge/SQLite-Data_Warehousing-003B57) | ![TS](https://img.shields.io/badge/Time_Series-Analysis/Predictions-4A90E2) |
+| ![PowerBI](https://img.shields.io/badge/PowerBI-DAX/Modeling-F2C811) | ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-Data%20Warehousing-red) | ![TS](https://img.shields.io/badge/Time_Series-Analysis/Predictions-4A90E2) |
 
 ---
 
