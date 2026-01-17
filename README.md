@@ -4,18 +4,17 @@
 [![Notion](https://img.shields.io/badge/Portfólio_Data-Projetos_Relevantes-000000?style=flat&logo=notion)](https://www.notion.so/Gabriel-Marcano-16dbf5073b6980e184b3c38716fbaa5e)
 [![Gmail](https://img.shields.io/badge/Email-marcanogc%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:marcanogc@gmail.com)
 
-**📌 Sobre mim**  
-
+---
 Sou **Analista de Dados & BI** com foco em transformar dados complexos em **insights acionáveis para decisões estratégicas**.
 
 Atuo no ciclo completo de dados, desde extração, tratamento e modelagem até visualização estratégica e automação de análises, utilizando **Python, SQL, Power BI e pipelines de dados**.  
 
-Tenho experiência em contextos **hospitalares, operacionais e de negócio**, apoiando decisões por meio de indicadores confiáveis e análises orientadas a resultado.
+Tenho experiência em contextos **hospitalares, operacionais e de negócio**, apoiando decisões por meio de indicadores confiáveis e análises orientadas a resultado, com base em Engenharia de Sistemas e especialização contínua em Ciência de Dados Comportamentais.
 
 ---
 ## 🛠️ Stack Principal
 
-| **📊 Análise e BI**              | **⚙️ Engenharia Analítica**       | **🚀 Avançado**                  |
+| **📊 Análise e BI**             | **⚙️ Engenharia Analítica**       | **🚀 Avançado**                 |
 |----------------------------------|-----------------------------------|----------------------------------|
 | ![Python](https://img.shields.io/badge/Python_Analytics-Pandas/Scikit_learn-3776AB) | ![ETL](https://img.shields.io/badge/ETL_Pipelines-Airflow_Orchestration-017CEE) | ![ML](https://img.shields.io/badge/Machine_Learning-Forecasting/TS-01D277) |
 | ![SQL](https://img.shields.io/badge/SQL_Modeling-KPIs_Analytics-4479A1) | ![API](https://img.shields.io/badge/REST_APIs-Data_Integration-FF6A00) | ![Viz](https://img.shields.io/badge/Data_Visualization-Storytelling-FF6384) |
@@ -29,7 +28,7 @@ Tenho experiência em contextos **hospitalares, operacionais e de negócio**, ap
 *Identificação de padrões de consumo para estratégias de upsell e cross sell.*
 - **Stack:** Python, SQL, Power BI  
 - **Resultado:** +22% retenção de clientes | +10% vendas recorrentes  
--🔗 Documentação: [Insight no Notion](https://www.notion.so/An-lise-de-Dados-com-a-Metodologia-de-Market-Basket-Analysis-188bf5073b6980009a8dfe21ec119f9a)
+-🔗 Documentação: [Ver no Notion](https://www.notion.so/An-lise-de-Dados-com-a-Metodologia-de-Market-Basket-Analysis-188bf5073b6980009a8dfe21ec119f9a)
 
 
 ### 📊 [Projetos de Análise de Dados e BI](https://www.notion.so/16dbf5073b698001ac37df0757033f87)
@@ -37,7 +36,7 @@ Tenho experiência em contextos **hospitalares, operacionais e de negócio**, ap
 - **Stack:** SQL, Python, Power BI  
 - **Insight:** 65% dos atrasos concentrados em janelas críticas de operação  
 - **Resultado:** +40% satisfação operacional  
-- 🔗 Documentação: [Insight no Notion](https://www.notion.so/16dbf5073b698001ac37df0757033f87)
+- 🔗 Documentação: [Ver no Notion](https://www.notion.so/16dbf5073b698001ac37df0757033f87)
 
 ### 🤖 [Pipeline ETL para Dados Bitcoin em Python](https://github.com/marcanogc/ETLProjectAPIExtract)
 *Automação da coleta e análise de preços em tempo real.*
@@ -93,5 +92,5 @@ Pipeline completo de previsão temporal: desde dados brutos até uma aplicação
 
 ## 📬 **Oportunidades Estratégicas** 
 - 📧 **Contato Preferencial:** [LinkedIn](https://www.linkedin.com/in/gabriel-marcano/) ou marcanogc@gmail.com  
-- 🔗 **Portfólio Completo:** [OnRender](https://gabriel-marcano-analytics.onrender.com/)
+- 🔗 **Portfólio Completo:** [Ver Portfólio](https://gabriel-marcano-analytics.onrender.com/)
 - 🔗 **Notion:** [Notion](https://www.notion.so/Gabriel-Marcano-16dbf5073b6980e184b3c38716fbaa5e)
