@@ -1,4 +1,4 @@
-# Data Analyst & BI | Python · SQL · Power BI · ETL
+# Data Analyst & BI | Python · SQL · Power BI · ETL · Analytics
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conexão-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-marcano/)
 [![Notion](https://img.shields.io/badge/Portfólio_Data-Projetos_Relevantes-000000?style=flat&logo=notion)](https://www.notion.so/Gabriel-Marcano-16dbf5073b6980e184b3c38716fbaa5e)
