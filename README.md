@@ -17,8 +17,8 @@ Tenho experiência em contextos **hospitalares, operacionais e de negócio**, ap
 
 | **📊 Análise e BI**             | **⚙️ Engenharia Analítica**       | **🚀 Avançado**                 |
 |----------------------------------|-----------------------------------|----------------------------------|
-| ![Python](https://img.shields.io/badge/Python_Analytics-Pandas/Scikit_learn-3776AB) | ![ETL](https://img.shields.io/badge/ETL_Pipelines-Airflow_Orchestration-017CEE) | ![ML](https://img.shields.io/badge/Machine_Learning-Forecasting/TS-01D277) |
-| ![SQL](https://img.shields.io/badge/SQL_Modeling-KPIs_Analytics-4479A1) | ![API](https://img.shields.io/badge/REST_APIs-Data_Integration-FF6A00) | ![Viz](https://img.shields.io/badge/Data_Visualization-Storytelling-FF6384) |
+| ![SQL](https://img.shields.io/badge/SQL_Modeling-KPIs_Analytics-4479A1) | ![ETL](https://img.shields.io/badge/ETL_Pipelines-Airflow_Orchestration-017CEE) | ![ML](https://img.shields.io/badge/Machine_Learning-Forecasting/TS-01D277) |
+| ![Python](https://img.shields.io/badge/Python_Analytics-Pandas/Scikit_learn-3776AB) | ![API](https://img.shields.io/badge/REST_APIs-Data_Integration-FF6A00) | ![Viz](https://img.shields.io/badge/Data_Visualization-Storytelling-FF6384) |
 | ![PowerBI](https://img.shields.io/badge/PowerBI-DAX/Modeling-F2C811) | ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-Data%20Warehousing-red) | ![TS](https://img.shields.io/badge/Time_Series-Analysis/Predictions-4A90E2) |
 
 ---
@@ -27,14 +27,14 @@ Tenho experiência em contextos **hospitalares, operacionais e de negócio**, ap
 
 ### 📊 [Projetos de Análise de Dados e BI](https://www.notion.so/16dbf5073b698001ac37df0757033f87)
 *Dashboards executivos com indicadores operacionais e financeiros.*
-- **Stack:** Python, SQL, Power BI  
+- **Stack:** SQL, Python, Power BI  
 - **Insight:** 65% dos atrasos concentrados em janelas críticas de operação  
 - **Resultado:** +40% satisfação operacional  
 - 🔗 Documentação: [Notion](https://www.notion.so/16dbf5073b698001ac37df0757033f87)
 
 ### 🔍 [Análise de Market Basket Analysis](https://www.notion.so/An-lise-de-Dados-com-a-Metodologia-de-Market-Basket-Analysis-188bf5073b6980009a8dfe21ec119f9a)
 *Identificação de padrões de consumo para estratégias de upsell e cross sell.*
-- **Stack:** Python, SQL, Power BI  
+- **Stack:** SQL, Python, Power BI  
 - **Resultado:** +22% retenção de clientes | +10% vendas recorrentes  
 -🔗 Documentação: [Notion](https://www.notion.so/An-lise-de-Dados-com-a-Metodologia-de-Market-Basket-Analysis-188bf5073b6980009a8dfe21ec119f9a)
 
@@ -57,14 +57,14 @@ Tenho experiência em contextos **hospitalares, operacionais e de negócio**, ap
 
 ### 🔬 [Previsão de Readmissão Hospitalar (Machine Learning aplicado à saúde)](https://github.com/marcanogc/readmissao_ml)
 *Modelo para prever readmissão hospitalar em até 30 dias, incluindo criação da variável alvo, tratamento de desbalanceamento, comparação de algoritmos (LogReg, RF, GBoost, XGBoost) e avaliação completa.* 
-- **Stack:** Python, Pandas, Scikit-Learn, XGBoost, Imbalanced-Learn  
+- **Stack:** Python, Pandas, NumPy, Scikit-Learn, MatPlotlib, XGBoost, Imbalanced-Learn
 - 🔗 Projeto: [GitHub](https://github.com/marcanogc/readmissao_ml)
 
 ---
 
 ### 📈 [Forecasting de Vendas com IA e Streamlit](https://github.com/marcanogc/Forecasting)
 *Pipeline completo de previsão temporal: desde dados brutos até uma aplicação em produção. Inclui engenharia de variáveis temporais, lags, análise de Black Friday e treinamento de HistGradientBoostingRegressor.*
-- **Stack:** Python, Scikit-Learn, Seaborn, Streamlit, Holidays  
+- **Stack:** Python, Pandas, NumPy, Scikit-Learn, Seaborn, Streamlit, Holidays
 - 🔗 Projeto: [GitHub](https://github.com/marcanogc/Forecasting)
 - 🖥️ App: [Streamlit](https://simula-venda.streamlit.app/)
 
