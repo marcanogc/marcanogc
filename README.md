@@ -25,48 +25,48 @@ Tenho experiência em contextos **hospitalares, operacionais e de negócio**, ap
 
 ## 🚀 **Projetos Relevantes**
 
+### 📊 [Projetos de Análise de Dados e BI](https://www.notion.so/16dbf5073b698001ac37df0757033f87)
+*Dashboards executivos com indicadores operacionais e financeiros.*
+- **Stack:** Python, SQL, Power BI  
+- **Insight:** 65% dos atrasos concentrados em janelas críticas de operação  
+- **Resultado:** +40% satisfação operacional  
+- 🔗 Documentação: [Notion](https://www.notion.so/16dbf5073b698001ac37df0757033f87)
+
 ### 🔍 [Análise de Market Basket Analysis](https://www.notion.so/An-lise-de-Dados-com-a-Metodologia-de-Market-Basket-Analysis-188bf5073b6980009a8dfe21ec119f9a)
 *Identificação de padrões de consumo para estratégias de upsell e cross sell.*
 - **Stack:** Python, SQL, Power BI  
 - **Resultado:** +22% retenção de clientes | +10% vendas recorrentes  
--🔗 Documentação: [Ver no Notion](https://www.notion.so/An-lise-de-Dados-com-a-Metodologia-de-Market-Basket-Analysis-188bf5073b6980009a8dfe21ec119f9a)
-
-
-### 📊 [Projetos de Análise de Dados e BI](https://www.notion.so/16dbf5073b698001ac37df0757033f87)
-*Dashboards executivos com indicadores operacionais e financeiros.*
-- **Stack:** SQL, Python, Power BI  
-- **Insight:** 65% dos atrasos concentrados em janelas críticas de operação  
-- **Resultado:** +40% satisfação operacional  
-- 🔗 Documentação: [Ver no Notion](https://www.notion.so/16dbf5073b698001ac37df0757033f87)
+-🔗 Documentação: [Notion](https://www.notion.so/An-lise-de-Dados-com-a-Metodologia-de-Market-Basket-Analysis-188bf5073b6980009a8dfe21ec119f9a)
 
 ### 🤖 [Pipeline ETL para Dados Bitcoin em Python](https://github.com/marcanogc/ETLProjectAPIExtract)
 *Automação da coleta e análise de preços em tempo real.*
 - **Stack:** Python, APIs REST, SQLAlchemy, SQLite, Streamlit  
 - **Insight:** Correlação entre manchetes positivas e picos de compra  
 - **Destaque:** Redução de esforço manual e maior confiabilidade analítica  
-- 🔗 Projeto: [Ver no GitHub](https://github.com/marcanogc/ETLProjectAPIExtract)
+- 🔗 Projeto: [GitHub](https://github.com/marcanogc/ETLProjectAPIExtract)
 
 ### 💰 [Monitoramento de Custos em Cloud](https://github.com/marcanogc/monitoramento-adf)
 *Controle e otimização de custos em pipelines de dados.*
 - **Stack:** Azure Data Factory, Azure Cost Management, PowerShell  
 - **Resultado:** 30% de redução de custos não previstos  
-- 🔗 Projeto: [Ver no GitHub](https://github.com/marcanogc/monitoramento-adf)
+- 🔗 Projeto: [GitHub](https://github.com/marcanogc/monitoramento-adf)
 
 ---
 
 ## 🧪 **Projetos de Machine Learning**
 
-### 🔬 Previsão de Readmissão Hospitalar (Machine Learning aplicado à saúde)
-Modelo para prever readmissão hospitalar em até 30 dias, incluindo criação da variável alvo, tratamento de desbalanceamento, comparação de algoritmos (LogReg, RF, GBoost, XGBoost) e avaliação completa.  
+### 🔬 [Previsão de Readmissão Hospitalar (Machine Learning aplicado à saúde)](https://github.com/marcanogc/readmissao_ml)
+*Modelo para prever readmissão hospitalar em até 30 dias, incluindo criação da variável alvo, tratamento de desbalanceamento, comparação de algoritmos (LogReg, RF, GBoost, XGBoost) e avaliação completa.* 
 - **Stack:** Python, Pandas, Scikit-Learn, XGBoost, Imbalanced-Learn  
+- 🔗 Projeto: [GitHub](https://github.com/marcanogc/readmissao_ml)
 
 ---
 
 ### 📈 [Forecasting de Vendas com IA e Streamlit](https://github.com/marcanogc/Forecasting)
-Pipeline completo de previsão temporal: desde dados brutos até uma aplicação em produção. Inclui engenharia de variáveis temporais, lags, análise de Black Friday e treinamento de HistGradientBoostingRegressor.  
+*Pipeline completo de previsão temporal: desde dados brutos até uma aplicação em produção. Inclui engenharia de variáveis temporais, lags, análise de Black Friday e treinamento de HistGradientBoostingRegressor.*
 - **Stack:** Python, Scikit-Learn, Seaborn, Streamlit, Holidays  
-- 🔗 Projeto: [Ver no GitHub](https://github.com/marcanogc/Forecasting)
-- 🖥️ App: [Abrir Aplicação](https://simula-venda.streamlit.app/)
+- 🔗 Projeto: [GitHub](https://github.com/marcanogc/Forecasting)
+- 🖥️ App: [Streamlit](https://simula-venda.streamlit.app/)
 
 ---
 
@@ -75,7 +75,6 @@ Pipeline completo de previsão temporal: desde dados brutos até uma aplicação
 - **Especialização:** Ciência de Dados e Análise de Comportamento (UniCesumar)
 - **Foco Atual:**
 ![BI Avançado](https://img.shields.io/badge/Power_BI_Expert-DAX-FFB000) ![Machine Learning aplicado](https://img.shields.io/badge/ML_Avanzado-Scikit_learn-FF6F00)   ![Cloud e pipelines analíticos](https://img.shields.io/badge/Multicloud_Fundamentos-AWS_Azure_GCP-FF9900)  
-
 
 ---
 
@@ -94,4 +93,4 @@ Pipeline completo de previsão temporal: desde dados brutos até uma aplicação
 ## 📬 **Oportunidades Estratégicas** 
 - 📧 **Contato Preferencial:** [LinkedIn](https://www.linkedin.com/in/gabriel-marcano/) ou marcanogc@gmail.com  
 - 🔗 **Portfólio Completo:** [Ver Portfólio](https://gabriel-marcano-analytics.onrender.com/)
-- 🔗 **Notion:** [Ver Notion](https://www.notion.so/Gabriel-Marcano-16dbf5073b6980e184b3c38716fbaa5e)
+- 🔗 **Notion:** [Notion](https://www.notion.so/Gabriel-Marcano-16dbf5073b6980e184b3c38716fbaa5e)
