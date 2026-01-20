@@ -15,11 +15,9 @@ Tenho experiência em contextos **hospitalares, operacionais e de negócio**, ap
 ---
 ## 🛠️ Stack Principal
 
-| **📊 Análise e BI**             | **⚙️ Engenharia Analítica**       | **🚀 Avançado**                 |
-|----------------------------------|-----------------------------------|----------------------------------|
-| ![SQL](https://img.shields.io/badge/SQL_Modeling-KPIs_Analytics-4479A1) | ![ETL](https://img.shields.io/badge/ETL_Pipelines-Airflow_Orchestration-017CEE) | ![ML](https://img.shields.io/badge/Machine_Learning-Forecasting/TS-01D277) |
-| ![Python](https://img.shields.io/badge/Python_Analytics-Pandas/Scikit_learn-3776AB) | ![API](https://img.shields.io/badge/REST_APIs-Data_Integration-FF6A00) | ![Viz](https://img.shields.io/badge/Data_Visualization-Storytelling-FF6384) |
-| ![PowerBI](https://img.shields.io/badge/PowerBI-DAX/Modeling-F2C811) | ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-Data%20Warehousing-red) | ![TS](https://img.shields.io/badge/Time_Series-Analysis/Predictions-4A90E2) |
+| **📊 Analytics Engineering** | **📈 BI & Analytics** | **⚙️ Data Engineering (Support)** | **🧠 Data Science** |
+|:---------------------|:----------------------|:--------------------------|:--------------------|
+| ![SQL](https://img.shields.io/badge/SQL-Transformacional-4479A1) <br> ![Modeling](https://img.shields.io/badge/Modeling-Star_Schema-1f425f) <br> ![dbt](https://img.shields.io/badge/dbt-Models_%26_Tests-FF694B) <br> ![Data Quality](https://img.shields.io/badge/Data_Quality-Semantic_Layer-lightgrey) | ![Power BI](https://img.shields.io/badge/PowerBI-DAX_%26_Semantic-F2C811) <br> ![Storytelling](https://img.shields.io/badge/Storytelling-Data_Viz-FF6384) <br> ![Performance](https://img.shields.io/badge/Performance-Optimization-success) | ![ETL](https://img.shields.io/badge/Integration-ETL_%2F_ELT-017CEE) <br> ![Airflow](https://img.shields.io/badge/Airflow-Orchestration-00C7D4) <br> ![DW](https://img.shields.io/badge/DW-Data_Warehousing-blueviolet) | ![Python](https://img.shields.io/badge/Python-Pandas_%2F_Sklearn-3776AB) <br> ![Stats](https://img.shields.io/badge/Statistics-Applied_Analysis-01D277) <br> ![Forecasting](https://img.shields.io/badge/Forecasting-Time_Series-orange) |
 
 ---
 
