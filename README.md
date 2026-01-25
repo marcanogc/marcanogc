@@ -90,5 +90,5 @@ Tenho experiência em contextos **hospitalares, operacionais e de negócio**, ap
 
 ## 📬 **Oportunidades Estratégicas** 
 - 📧 **Contato Preferencial:** [LinkedIn](https://www.linkedin.com/in/gabriel-marcano/) ou marcanogc@gmail.com  
-- 🔗 **Portfólio Completo:** [Ver Portfólio](https://gabriel-marcano-analytics.onrender.com/)
+- 🔗 **Portfólio Completo:** [Ver Portfólio](https://gabriel-analytics.onrender.com/)
 - 🔗 **Notion:** [Notion](https://www.notion.so/Gabriel-Marcano-16dbf5073b6980e184b3c38716fbaa5e)
